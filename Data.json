@@ -1,0 +1,281 @@
+[
+    {
+        "province_en": "Ardabil",
+        "province_fa": "اردبیل",
+        "motor_count": 0,
+        "motor_percentage": 0.0,
+        "motor_score": 15.0,
+        "color": "green",
+        "history": [12, 12.5, 13, 13.2, 14.2, 14.7]
+    },
+    {
+        "province_en": "South_Khorasan",
+        "province_fa": "خراسان جنوبی",
+        "motor_count": 3,
+        "motor_percentage": 0.15,
+        "motor_score": 14.98,
+        "color": "green",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "North_Khorasan",
+        "province_fa": "خراسان شمالی",
+        "motor_count": 2,
+        "motor_percentage": 0.15,
+        "motor_score": 14.98,
+        "color": "green",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "Khuzestan",
+        "province_fa": "خوزستان",
+        "motor_count": 31,
+        "motor_percentage": 1.44,
+        "motor_score": 14.78,
+        "color": "yellow",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "Qazvin",
+        "province_fa": "قزوین",
+        "motor_count": 8,
+        "motor_percentage": 0.36,
+        "motor_score": 14.95,
+        "color": "green",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "Razavi_Khorasan",
+        "province_fa": "خراسان رضوی",
+        "motor_count": 63,
+        "motor_percentage": 0.71,
+        "motor_score": 14.89,
+        "color": "green",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "Yazd",
+        "province_fa": "یزد",
+        "motor_count": 70,
+        "motor_percentage": 3.13,
+        "motor_score": 14.53,
+        "color": "yellow",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "Kerman",
+        "province_fa": "کرمان",
+        "motor_count": 10,
+        "motor_percentage": 0.07,
+        "motor_score": 14.99,
+        "color": "green",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "Kermanshah",
+        "province_fa": "کرمانشاه",
+        "motor_count": 40,
+        "motor_percentage": 0.7,
+        "motor_score": 14.89,
+        "color": "green",
+        "history": [11, 12.5, 14, 13.2, 13.2, 13.7]
+    },
+    {
+        "province_en": "Semnan",
+        "province_fa": "سمنان",
+        "motor_count": 5,
+        "motor_percentage": 0.23,
+        "motor_score": 14.97,
+        "color": "green",
+        "history": [14.55, 14.65, 14.36, 14.72, 14.9, 14.97]
+    },
+    {
+        "province_en": "Ilam",
+        "province_fa": "ایلام",
+        "motor_count": 1,
+        "motor_percentage": 0.09,
+        "motor_score": 14.99,
+        "color": "green",
+        "history": [15, 14.5, 14.6, 14.8, 14.7, 14.99]
+    },
+    {
+        "province_en": "East_Azarbaijan",
+        "province_fa": "آذربایجان شرقی",
+        "motor_count": 73,
+        "motor_percentage": 0.59,
+        "motor_score": 14.91,
+        "color": "green",
+        "history": [12, 12.5, 13, 13.2, 13.8, 14.91]
+    },
+    {
+        "province_en": "Chahar_Mahaal_and_Bakhtiari",
+        "province_fa": "چهارمحال و بختیاری",
+        "motor_count": 12,
+        "motor_percentage": 0.4,
+        "motor_score": 14.94,
+        "color": "green",
+        "history": [15, 14.5, 14.6, 14.8, 14.7, 14.94]
+    },
+    {
+        "province_en": "Kurdistan",
+        "province_fa": "کردستان",
+        "motor_count": 145,
+        "motor_percentage": 2.45,
+        "motor_score": 14.63,
+        "color": "yellow",
+        "history": [14.7, 14.9, 14, 14.2, 14.8, 14.63]
+    },
+    {
+        "province_en": "West_Azarbaijan",
+        "province_fa": "آذربایجان غربی",
+        "motor_count": 22,
+        "motor_percentage": 0.14,
+        "motor_score": 14.98,
+        "color": "green",
+        "history": [12.7, 12.9, 13, 13.2, 13.8, 14.98]
+    },
+    {
+        "province_en": "Lorestan",
+        "province_fa": "لرستان",
+        "motor_count": 73,
+        "motor_percentage": 2.21,
+        "motor_score": 14.67,
+        "color": "yellow",
+        "history": [14.8, 14.5, 14, 14.2, 14.3, 14.67]
+    },
+    {
+        "province_en": "Alborz",
+        "province_fa": "البرز‎",
+        "motor_count": 8,
+        "motor_percentage": 0.5,
+        "motor_score": 14.93,
+        "color": "green",
+        "history": [14.6, 14.5, 13.7, 13.2, 14.5, 14.93]
+    },
+    {
+        "province_en": "Isfahan",
+        "province_fa": "اصفهان",
+        "motor_count": 101,
+        "motor_percentage": 0.44,
+        "motor_score": 14.93,
+        "color": "green",
+        "history": [13.6, 13.5, 14, 14.2, 14.5, 14.93]
+    },
+    {
+        "province_en": "Hormozgan",
+        "province_fa": "هرمزگان",
+        "motor_count": 10,
+        "motor_percentage": 0.15,
+        "motor_score": 14.98,
+        "color": "green",
+        "history": [15, 14.5, 14.3, 14.1, 14.7, 14.98]
+    },
+    {
+        "province_en": "Bushehr",
+        "province_fa": "بوشهر",
+        "motor_count": 3,
+        "motor_percentage": 0.08,
+        "motor_score": 14.99,
+        "color": "green",
+        "history": [13.5, 13.6, 13.75, 13.95, 14.5, 14.99]
+    },
+    {
+        "province_en": "Tehran",
+        "province_fa": "تهران",
+        "motor_count": 12,
+        "motor_percentage": 0.35,
+        "motor_score": 14.95,
+        "color": "green",
+        "history": [14, 14.5, 14.2, 14.66, 14.8, 14.95]
+    },
+    {
+        "province_en": "Zanjan",
+        "province_fa": "زنجان",
+        "motor_count": 1,
+        "motor_percentage": 0.02,
+        "motor_score": 15.0,
+        "color": "green",
+        "history": [14.8, 14.5, 14.6, 14.2, 14.8, 15.0]
+    },
+    {
+        "province_en": "Kohgiluyeh_and_Boyer-Ahmad",
+        "province_fa": "کهگیلویه و بویراحمد",
+        "motor_count": 16,
+        "motor_percentage": 1.14,
+        "motor_score": 14.83,
+        "color": "green",
+        "history": [13, 12.5, 14, 13.2, 13.6, 14.83]
+    },
+    {
+        "province_en": "Golestan",
+        "province_fa": "گلستان",
+        "motor_count": 4,
+        "motor_percentage": 0.07,
+        "motor_score": 14.99,
+        "color": "green",
+        "history": [15, 14.5, 14, 13.2, 13.2, 14.99]
+    },
+    {
+        "province_en": "fars",
+        "province_fa": "فارس",
+        "motor_count": 1632,
+        "motor_percentage": 4.23,
+        "motor_score": 14.37,
+        "color": "red",
+        "history": [15, 14.8, 14.7, 14.6, 14.2, 14.37]
+    },
+    {
+        "province_en": "Hamedan",
+        "province_fa": "همدان",
+        "motor_count": 59,
+        "motor_percentage": 0.85,
+        "motor_score": 14.87,
+        "color": "green",
+        "history": [13, 13.5, 14, 14.2, 14.4, 14.87]
+    },
+    {
+        "province_en": "Sistan_and_Baluchistan",
+        "province_fa": "سیستان و بلوچستان",
+        "motor_count": 1,
+        "motor_percentage": 0.02,
+        "motor_score": 15.0,
+        "color": "green",
+        "history": [14, 14.2, 14, 13.9, 14, 15.0]
+    },
+    {
+        "province_en": "Gilan",
+        "province_fa": "گیلان",
+        "motor_count": 9,
+        "motor_percentage": 0.11,
+        "motor_score": 14.98,
+        "color": "green",
+        "history": [11, 12.5, 13.7, 14.2, 14.4, 14.98]
+    },
+    {
+        "province_en": "Mazandaran",
+        "province_fa": "مازندران",
+        "motor_count": 1911,
+        "motor_percentage": 6.7,
+        "motor_score": 13.99,
+        "color": "red",
+        "history": [12.7, 13.5, 14, 13.2, 13.4, 13.99]
+    },
+    {
+        "province_en": "Qom",
+        "province_fa": "قم",
+        "motor_count": 51,
+        "motor_percentage": 4.27,
+        "motor_score": 14.36,
+        "color": "red",
+        "history": [12.7, 13.5, 14, 13.2, 13.4, 14.36]
+    },
+    {
+        "province_en": "Markazi",
+        "province_fa": "مرکزی",
+        "motor_count": 195,
+        "motor_percentage": 3.81,
+        "motor_score": 14.43,
+        "color": "yellow",
+        "history": [12, 13.5, 14, 14.3, 14.2, 14.43]
+    }
+]
